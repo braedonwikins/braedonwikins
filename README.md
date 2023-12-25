@@ -187,4 +187,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:braedonwikins@gmail.com"><img src="https://img.shields.io/badge/braedonwikins@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="skype:live:.cid.f5d99b521d16ba91"><img src="https://img.shields.io/badge/live:.cid.f5d99b521d16ba91-D14836?style=flat&logo=skype&logoColor=lightskyblue"/></a>
+<a href="whatsapp:+18066601464"><img src="https://img.shields.io/badge/+18066601464-D14836?style=flat&logo=whatsapp&logoColor=lightgreen"/></a>
+
 </p>
